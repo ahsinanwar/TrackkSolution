@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Extension\" />
+    <Folder Include="DataModel\" />
+    <Folder Include="StaticText\" />
+  </ItemGroup>
+
 </Project>

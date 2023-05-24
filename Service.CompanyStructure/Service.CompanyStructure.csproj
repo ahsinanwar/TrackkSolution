@@ -11,7 +11,9 @@
     <Folder Include="Core\Interfaces\" />
     <Folder Include="Core\Static\" />
     <Folder Include="Core\ViewModels\" />
-    <Folder Include="Features\Company\" />
+    <Folder Include="Features\Company\DataModel\" />
+    <Folder Include="Features\Company\Service\" />
+    <Folder Include="Features\Company\Repository\" />
   </ItemGroup>
 
 </Project>
