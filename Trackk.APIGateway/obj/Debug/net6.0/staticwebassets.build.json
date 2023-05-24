@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d4oUjfp4LdfV26tIFEzf624FcWiW/lbhOLZcp4N153M=",
+  "Source": "Trackk.APIGateway",
+  "BasePath": "_content/Trackk.APIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
